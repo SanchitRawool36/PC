@@ -1,0 +1,15 @@
+download apache jmeter 
+
+extract zip file in bin folder .
+
+open apachejmeter.jar file 
+
+clik test plan add thread group 
+
+enter thread properties 
+
+add http
+
+add server name and ip and also path 
+
+click http req add view result tree and other options click run 
