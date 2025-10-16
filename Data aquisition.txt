@@ -1,0 +1,17 @@
+windows + R -> regedit 
+
+Computer\hkey_local-machine\system\currentcontrolset\devicestoragepolicies
+
+new -> sword 32bit value -> writeprotect 
+
+open ftk manager then click on create disk imager 
+
+select the folder input 
+
+fill evidence item info
+
+then select output folder 
+
+write image file name - case number: cf001 
+
+go to cf folder and select output folder and open AD1 file : cf001.ad1

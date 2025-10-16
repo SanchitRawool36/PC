@@ -1,0 +1,8 @@
+search foxton forensic 
+
+setup browser history examiner by extacting browzerhistoryexaminor-  .... file which is zip 
+
+download it 
+
+
+do the report and save it in pdf 

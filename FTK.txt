@@ -1,0 +1,39 @@
+accessdata ftk imager 3.1.2.0
+
+file 
+
+create disk image 
+
+content of a folder 
+
+yes 
+
+browse 
+
+choose image path 
+
+verify image after they are created 
+
+evidence item information 
+
+cf001 001 abcd ... abcd 
+
+next 
+
+select destination 
+
+add 
+next 
+
+close 
+
+file 
+
+add evidence item 
+
+image file 
+
+choose image 
+
+doneee
+

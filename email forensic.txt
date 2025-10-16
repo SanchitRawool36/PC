@@ -1,0 +1,13 @@
+open mail 
+
+click on more option then click on show original 
+
+click on copied to clipboard 
+
+open browser and search for mx anakyze and click on first website 
+
+paste msg click on anakyze header 
+
+click on this email 
+
+do same for spam email and it will show fraude email 

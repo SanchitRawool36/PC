@@ -1,0 +1,28 @@
+new case 
+
+give name and base directory 
+
+next 
+
+give case number 
+
+next 
+
+choose generate new host option and next 
+
+click local disk and click next
+
+select  local disk and time zone and next 
+
+configure ingest 
+
+next data source has been added 
+
+double click on disk 
+
+click on any file and click on extract 
+
+now see your extended file in .../.../export 
+
+
+

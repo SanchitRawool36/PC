@@ -1,0 +1,30 @@
+open openpuff
+
+create 3 folder
+
+click on hide 
+
+unchecked the enable  B and C and write a password 
+
+give path 
+
+add png 
+
+go to bit section options click on hide data then select hide folder 
+
+ok 
+
+task report done
+
+open hide folder 
+
+open openpuff click on unhide option 
+
+add you password 
+
+now click on unhide select unhide folder 
+
+open unhide folder and you will see the text file 
+
+
+

@@ -1,0 +1,27 @@
+open sysinternalsuite 
+
+then open cacheset 
+
+click on agree 
+ 
+
+change 1024 kb to 852 kb and click apply 
+
+then ok 
+
+open procmon application 
+
+open tcpview application 
+
+tcpv4 tcpv6 
+
+udp v6 
+
+open vmmap application 
+
+chose or launch 
+
+ok 
+
+choose process 
+

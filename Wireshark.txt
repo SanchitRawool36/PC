@@ -1,0 +1,15 @@
+open wireshark and select ethernet 4 or etc 
+
+capturew packet from ethernet 
+
+hex decimal data 
+
+frame details 
+
+ethernet details 
+
+internet protocol version 4
+
+user datagram protocol 
+
+multicast domain name system 

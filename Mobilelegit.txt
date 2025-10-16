@@ -1,0 +1,33 @@
+Downloading  the Mobilelegit forensic 
+
+open mobilelegit folder
+
+next 
+
+browse folder 
+
+next 
+
+finish 
+
+open mobile legit folder copy zip crak fix paste in c:    right click extract all click yes 
+
+open mobileedit folder open keygen fix folder , extract this zip file on the same location double click on mekgn 
+
+click on patch 
+
+browse c:/// forensix expert 
+
+fill detils 
+
+click on modify hostfile 
+
+if we see error : 
+
+open c://drivers/etc in this folder right click on hosts file -> properties - security -> edit -> selct users -> in the permissions for users : check allow fro modify and write 
+
+open mobile application -> click on start - connect the phone to the pc using usb - the phone view will be display - clik on phone dtata preview - click on yes 
+
+slect 'specific slection' - slect the dta you want - customize the report- fil the dtails - slect pdf - brose the folder for report 
+
+report will be generated on specific folder 

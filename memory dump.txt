@@ -1,0 +1,7 @@
+Open cpu usage 
+
+disk usage
+
+network usage 
+
+memory usage 
